@@ -1,4 +1,4 @@
-import React, { Component, useRef, useEffect, useState } from "react";
+import React from "react";
 //import Particles from 'react-particles-js';
 import tw from "twin.macro";
 import "./mainLayout.scss";
@@ -104,23 +104,18 @@ const PhoneNav = (props) => {
   const Logo = tw.img`h-4 p-4`;
   const MyX =tw.div`p-4 box-border font-extrabold`
   const Button=tw.button`bg-red-400 outline-none border-0 shadow rounded h-8 w-24`
+
   const properties = {
     about: "About us",
     service: "How it works",
     plans: "plans",
   };
-  const[state,  setState] = useState(false);
-
   
-  const HandleClick=()=>{
-    if(window.innerwidth <600){
-      this.setState(true)
-    }    
     
-  }
+
   return (
     <Navdiv>
-      <MyX><Button onClick={HandleClick}>close &nbsp;X</Button></MyX>
+      <MyX><Button onClick={""}>close &nbsp;X</Button></MyX>
       <UlElements>
       <Logo src={logo} alt="EPESA"></Logo>
         <LI></LI>

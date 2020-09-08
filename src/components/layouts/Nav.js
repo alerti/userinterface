@@ -1,12 +1,12 @@
-import React, { ComponentuseRef, useEffect, useState } from "react";
+import React, {  useState } from "react";
 //import { DivMode } from 'react-particles-js';
 import tw from "twin.macro";
-import MenuOpenIcon from "@material-ui/icons/MenuOpen";
+//import MenuOpenIcon from "@material-ui/icons/MenuOpen";
 import useWindowScrollPosition from "@rehooks/window-scroll-position";
 
 import { NavLink } from "react-router-dom";
 import "./Nav.scss";
-import { Container } from "./layoutDiv";
+//import { Container } from "./layoutDiv";
 
 const Navbar = (props) => {
   const MainDiv = tw.div`h-16 w-screen flex z-50  box-border flex-row shadow-lg items-center  justify-center  p-4  m-1`;

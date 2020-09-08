@@ -4,7 +4,7 @@ import "./login.scss";
 import tw from "twin.macro";
 import VpnKeyIcon from "@material-ui/icons/VpnKey";
 import FooterDiv from "../layouts/MainFooter";
-import ArrowForwardIcon from "@material-ui/icons/ArrowBack";
+//import ArrowForwardIcon from "@material-ui/icons/ArrowBack";
 const Main = tw.div`shadow-2xl`;
 function Login() {
   return (

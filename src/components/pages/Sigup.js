@@ -2,7 +2,7 @@ import React from "react";
 import {NavLink} from "react-router-dom"
 import "./Signup.scss";
 import tw from "twin.macro";
-import VpnKeyIcon from "@material-ui/icons/VpnKey";
+//import VpnKeyIcon from "@material-ui/icons/VpnKey";
 import FooterDiv from "../layouts/MainFooter";
 import PersonAddIcon from '@material-ui/icons/PersonAdd';
 const Main = tw.div`shadow-2xl`;
