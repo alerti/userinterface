@@ -2,7 +2,9 @@
   "homepage": "https://alerti.github.com/e-pesa",
   "name": "epesa",
   "version": "0.1.0",
-  "private": false,
+  "engines": {
+    "yarn": "1.22.5"
+  },
   "dependencies": {
     "@emotion/core": "^10.0.35",
     "@emotion/styled": "^10.0.27",
