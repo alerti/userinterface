@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/e-pesa/static/css/main.ee5c9ba7.chunk.css",
+    "main.js": "/e-pesa/static/js/main.d71d10e3.chunk.js",
+    "main.js.map": "/e-pesa/static/js/main.d71d10e3.chunk.js.map",
+    "runtime-main.js": "/e-pesa/static/js/runtime-main.9f7f8cdb.js",
+    "runtime-main.js.map": "/e-pesa/static/js/runtime-main.9f7f8cdb.js.map",
+    "static/js/2.96fe2d77.chunk.js": "/e-pesa/static/js/2.96fe2d77.chunk.js",
+    "static/js/2.96fe2d77.chunk.js.map": "/e-pesa/static/js/2.96fe2d77.chunk.js.map",
+    "index.html": "/e-pesa/index.html",
+    "precache-manifest.a574a2a8b23eb2d017faa868e403f5e0.js": "/e-pesa/precache-manifest.a574a2a8b23eb2d017faa868e403f5e0.js",
+    "service-worker.js": "/e-pesa/service-worker.js",
+    "static/css/main.ee5c9ba7.chunk.css.map": "/e-pesa/static/css/main.ee5c9ba7.chunk.css.map",
+    "static/js/2.96fe2d77.chunk.js.LICENSE.txt": "/e-pesa/static/js/2.96fe2d77.chunk.js.LICENSE.txt",
+    "static/media/epsa.svg": "/e-pesa/static/media/epsa.c9f6272a.svg",
+    "static/media/phone.png": "/e-pesa/static/media/phone.34887f17.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f7f8cdb.js",
+    "static/js/2.96fe2d77.chunk.js",
+    "static/css/main.ee5c9ba7.chunk.css",
+    "static/js/main.d71d10e3.chunk.js"
+  ]
+}
